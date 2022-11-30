@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.react:react-native-gesture-handler:2.1.0-jitsi-11101599@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c04f998ce82dfd6e4ca612c9180faea9/transformed/jetified-react-native-gesture-handler-2.1.0-jitsi-11101599/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c04f998ce82dfd6e4ca612c9180faea9/transformed/jetified-react-native-gesture-handler-2.1.0-jitsi-11101599/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c04f998ce82dfd6e4ca612c9180faea9/transformed/jetified-react-native-gesture-handler-2.1.0-jitsi-11101599/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.react/react-native-gesture-handler/2.1.0-jitsi-11101599/178d8d34c46df22f47386656aca5d5d44ef5cf49/react-native-gesture-handler-2.1.0-jitsi-11101599-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

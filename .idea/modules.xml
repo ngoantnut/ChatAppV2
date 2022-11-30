@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Z-CallApp.iml" filepath="$PROJECT_DIR$/.idea/modules/Z-CallApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Z-CallApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
